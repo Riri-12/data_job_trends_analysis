@@ -2,7 +2,7 @@
   
 # DATA JOB TRENDS ANALYSIS
 ### Purpose
-   The main purpose of the project was to conduct an in-depth anlaysis on job trends and employment patterns in the field of data in the recent years.
+   The main purpose of the project was to conduct an in-depth anlaysis on job trends and employment patterns in the field of data in the recent years '2020-2023'.
 
 ### Data Analysis Questions
 
