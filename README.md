@@ -30,7 +30,7 @@ The data was extracted from Kaggle  [Link here](https://www.kaggle.com/datasets/
 
 ### Data Analysis
 
-The data was a clean data so I analysed using  Mysql server and completed visualixation in Tableau public.   
+The data was a clean data so I analysed using  Mysql server and completed visualization in Tableau public.   
 
 ### Tools
 - My SQL server- data analysis
